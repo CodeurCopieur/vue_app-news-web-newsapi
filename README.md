@@ -1,5 +1,7 @@
 # vue_app-news-web-newsapi
 
+API : [News API](https://newsapi.org/)
+
 ## Project setup
 ```
 yarn install
