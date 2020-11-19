@@ -16,6 +16,9 @@ export default {
 </script>
 
 <style>
+
+@import url('https://use.fontawesome.com/releases/v5.7.2/css/all.css');
+
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
