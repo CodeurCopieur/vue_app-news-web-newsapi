@@ -11,6 +11,11 @@ export default {
   name: 'App',
   components: {
     News
+  },
+  data() {
+    return {
+       apiKey: '5887a299d4564fe7bafbfcf3d2f31148' // You need an API Key from newsapi.org
+    }
   }
 }
 </script>
